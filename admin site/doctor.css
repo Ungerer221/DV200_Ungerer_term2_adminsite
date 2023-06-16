@@ -1,0 +1,36 @@
+:root {
+    --white: #fff;
+    --blue: #73DAD4;
+    --red: #EE4E4E;
+    --grey: #999999;
+    --black: #000;
+}
+
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    /* gap: 20px; */
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+    background-color: var(--white);
+    border-radius: 24px;
+    max-width: 1440px;
+    padding: 0px 20px;
+    margin: auto;
+    box-shadow: 0px 4px 30px 8px rgba(76, 83, 107, 0.25);
+}
+
+#navbar ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
