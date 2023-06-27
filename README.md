@@ -26,6 +26,7 @@
 <p align="center">appointment managment</p>
 <p align="center">doctor and patient managment</p>
 
+
 <h3 align="center">Functionality:</h3>
 <p align="center">the site connects to the main database through the site and allows the user to edit and manage the data through tools on the site</p>
 <p align="center">edit and delete functions</p>
@@ -54,6 +55,14 @@
 
 
 <h2 align="center">Development Process</h2>
+<h3 align="center">Implementation Process</h3>
+
+<h3 align="center">Highlights:</h3>
+<p align="center">some highlights where actualy getting some of the features to work as well as connecting the site to the database and having the two work together.</p>
+
+<h3 align="center">Challenges:</h3>
+<p align="center">the greatest chaalenge was to get certain features working such as the edit feature and the delete feature. thought I managed to get it working on some pages it wouldn't on other pages.</p>
+<p align="center">I think the main issue was the SQL connection where when I wanted to update or delete something I may have typed the SQL syntax wrong</p>
 
 <h2 align="center">Future Implementation</h2>
 
