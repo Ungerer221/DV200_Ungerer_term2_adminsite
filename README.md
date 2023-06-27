@@ -2,10 +2,10 @@
 
 <h2 align="center">About this project </h2>
 
-<h3 align="center">Project Description</h3>
+<h3 align="center">Project Description:</h3>
 <p>This term, we were tasked with developing an admin website that is to be used by the main receptionist in order to manage appointments, doctors, and patients.</p>
 
-<h3 align="center">Built with</h3>
+<h3 align="center">Built with:</h3>
 <p> The site was built using primarily PHP and SQL. HTML was used for the structuring and content of the site, and CSS as well as Bootstrap was used for the styling.</p>
 
 <ul >
@@ -17,8 +17,18 @@
 
 <h2 align="center">Getting Started</h2>
 <h3 align="center">prerequisites</h3>
+<p align="center">In order to use the site you would have to use the programe xamp as the localhost and SQL as your database</p>
 
-<h2 align="center">features and functionality</h2>
+<h2 align="center">Features and Functionality</h2>
+
+<h3 align="center">Features:</h3>
+<p align="center">Current day and date widget</p>
+<p align="center">appointment managment</p>
+<p align="center">doctor and patient managment</p>
+
+<h3 align="center">Functionality:</h3>
+<p align="center">the site connects to the main database through the site and allows the user to edit and manage the data through tools on the site</p>
+<p align="center">edit and delete functions</p>
 
 <h2 align="center">Concept Process</h2>
 <h3 align="center">Ideation</h3>
