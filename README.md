@@ -22,10 +22,12 @@
 
 <h2 align="center">Concept Process</h2>
 <h3 align="center">Ideation</h3>
+<p align="center">mood board</p>
 
 ![mood board](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/58c6280c-7bd3-41f9-a7e7-924ceae52078)
 
-<h3 align="center">wireframe</h3>
+
+<h3 align="center">Wireframe</h3>
 
 ![appointments page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/c71bccda-a2d6-46f4-9d3b-2f86b3ef948f)
 
@@ -35,7 +37,7 @@
 
 ![sign up wireframe](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/a4e1240d-f35d-4d67-9d4f-b49ded598cbf)
 
-<h3 align="center">style sheet</h3>
+<h3 align="center">Style sheet</h3>
 
 ![style guide](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/1cdcd614-a637-414e-ab05-958e11d1835e)
 
