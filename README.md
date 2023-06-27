@@ -3,10 +3,10 @@
 <h2 align="center">About this project </h2>
 
 <h3 align="center">Project Description:</h3>
-<p>This term, we were tasked with developing an admin website that is to be used by the main receptionist in order to manage appointments, doctors, and patients.</p>
+<p align="center">This term, we were tasked with developing an admin website that is to be used by the main receptionist in order to manage appointments, doctors, and patients.</p>
 
 <h3 align="center">Built with:</h3>
-<p> The site was built using primarily PHP and SQL. HTML was used for the structuring and content of the site, and CSS as well as Bootstrap was used for the styling.</p>
+<p align="center"> The site was built using primarily PHP and SQL. HTML was used for the structuring and content of the site, and CSS as well as Bootstrap was used for the styling.</p>
 
 <ul >
   <li>PHP: used to code with connections to the database</li>
@@ -40,11 +40,19 @@
 
 <h3 align="center">Wireframe</h3>
 
+<p align="center">Appointments Page</p>
+
 ![appointments page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/c71bccda-a2d6-46f4-9d3b-2f86b3ef948f)
+
+<p align="center">Doctors Page</p>
 
 ![doctors page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/25c92526-ddd0-455b-bc55-9db5e6d8e2b9)
 
+<p align="center">Patients Page</p>
+
 ![patients page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/49946abb-e678-4c2f-b8a9-7b9b06d11484)
+
+<p align="center">Signup Form</p>
 
 ![sign up wireframe](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/a4e1240d-f35d-4d67-9d4f-b49ded598cbf)
 
