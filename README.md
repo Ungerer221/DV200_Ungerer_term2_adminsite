@@ -65,8 +65,8 @@
 <p align="center">I think the main issue was the SQL connection where when I wanted to update or delete something I may have typed the SQL syntax wrong</p>
 
 <h2 align="center">Future Implementation</h2>
-
-<h2 align="center">Final Outcome</h2>
+<P align="center">In the future I think I would rather structure my code and files betteras well as how I name my file and tables.</P>
+<p align="center">for future implementations i could definitly use this methode to create more admin sites or sites that require a database.</p>
 
 <h2 align="center">Conclusion</h2>
 <p>In Conclusion, I have undergone the whole process in making a semi-working admin website</p>
