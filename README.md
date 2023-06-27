@@ -76,5 +76,12 @@
 <P align="center">In the future I think I would rather structure my code and files betteras well as how I name my file and tables.</P>
 <p align="center">for future implementations i could definitly use this methode to create more admin sites or sites that require a database.</p>
 
+<h3>other sources</h3>
+<p>youtube video provided</p>
+
+Login System Using PHP and MYSQL
+
+► [Subscribe Us:](https://www.youtube.com/codingwithelias?sub_confirmation=1)
+
 <h2 align="center">Conclusion</h2>
 <p>In Conclusion, I have undergone the whole process in making a semi-working admin website</p>
