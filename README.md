@@ -41,24 +41,19 @@
 <img src='Assets\landing page un loged in.png'>
 
 <p align="center">Appointments Page</p>
-
-![appointments page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/c71bccda-a2d6-46f4-9d3b-2f86b3ef948f)
+<img src='Assets\appointments page.png'>
 
 <p align="center">Doctors Page</p>
-
-![doctors page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/25c92526-ddd0-455b-bc55-9db5e6d8e2b9)
+<img src='Assets\doctors page.png'>
 
 <p align="center">Patients Page</p>
-
-![patients page](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/49946abb-e678-4c2f-b8a9-7b9b06d11484)
+<img src='Assets\patients page.png'>
 
 <p align="center">Signup Form</p>
-
-![sign up wireframe](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/a4e1240d-f35d-4d67-9d4f-b49ded598cbf)
+<img src='Assets\sign up wireframe.png'>
 
 <h3 align="center">Style sheet</h3>
-
-![style guide](https://github.com/Ungerer221/DV200_Ungerer_term2_adminsite/assets/113917241/1cdcd614-a637-414e-ab05-958e11d1835e)
+<img src='Assets\style guide.png'>
 
 
 
