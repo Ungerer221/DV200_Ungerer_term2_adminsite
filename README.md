@@ -1,5 +1,7 @@
 <h1 align="center">DV200 Term 2 Project</h1>
 
+<img src='Assets\Admin Poster.png'>
+
 <h2 align="center">About this project </h2>
 
 <h3 align="center">Project Description:</h3>
