@@ -78,5 +78,8 @@ Login System Using PHP and MYSQL
 
 ► [Subscribe Us:](https://www.youtube.com/codingwithelias?sub_confirmation=1)
 
+## Issues Fixed
+- Save and delete function in the doctors Page
+
 <h2 align="center">Conclusion</h2>
 <p>In Conclusion, I have undergone the whole process in making a semi-working admin website</p>
