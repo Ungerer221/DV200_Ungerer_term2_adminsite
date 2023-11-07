@@ -2,6 +2,9 @@
 
 <img src='Assets\Admin Poster.png'>
 
+# Demo Video
+https://drive.google.com/file/d/1bFWJu5f7DGa4nBkiUO8edoPLQyMs0EBM/view?usp=sharing
+
 <h2 align="center">About this project </h2>
 
 <h3 align="center">Project Description:</h3>
